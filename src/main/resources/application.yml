@@ -1,0 +1,3 @@
+goeuro:
+  endpoint:
+    city: http://api.goeuro.com/api/v2/position/suggest/en/{0}
